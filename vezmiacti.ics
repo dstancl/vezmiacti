@@ -2356,27 +2356,27 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-01
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140801
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140802
-SUMMARY:Vezmi a čti Mt 17–19 
+SUMMARY:Vezmi a čti Ezd 1–2 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-01
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 UID:vezmi-a-cti-20140801
 END:VEVENT
 BEGIN:VEVENT
-URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-03
-DTSTART;TZID=Europe/Prague;VALUE=DATE:20140803
-DTEND;TZID=Europe/Prague;VALUE=DATE:20140804
-SUMMARY:Vezmi a čti Mt 20–22 
-DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-03
+URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-02
+DTSTART;TZID=Europe/Prague;VALUE=DATE:20140802
+DTEND;TZID=Europe/Prague;VALUE=DATE:20140803
+SUMMARY:Vezmi a čti Ezd 3–4 
+DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-02
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-UID:vezmi-a-cti-20140803
+UID:vezmi-a-cti-20140802
 END:VEVENT
 BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-04
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140804
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140805
-SUMMARY:Vezmi a čti Mt 23–25 
+SUMMARY:Vezmi a čti Ezd 5–6 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-04
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2386,7 +2386,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-05
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140805
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140806
-SUMMARY:Vezmi a čti Mt 26–28 
+SUMMARY:Vezmi a čti Ezd 7–8 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-05
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2396,7 +2396,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-06
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140806
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140807
-SUMMARY:Vezmi a čti Sd 1–3
+SUMMARY:Vezmi a čti Ezd 9–10
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-06
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2406,7 +2406,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-07
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140807
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140808
-SUMMARY:Vezmi a čti Sd 4–6 
+SUMMARY:Vezmi a čti Neh 1–3 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-07
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2416,27 +2416,27 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-08
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140808
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140809
-SUMMARY:Vezmi a čti Sd 7–9 
+SUMMARY:Vezmi a čti Neh 4–7 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-08
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 UID:vezmi-a-cti-20140808
 END:VEVENT
 BEGIN:VEVENT
-URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-10
-DTSTART;TZID=Europe/Prague;VALUE=DATE:20140810
-DTEND;TZID=Europe/Prague;VALUE=DATE:20140811
-SUMMARY:Vezmi a čti Sd 10–12 
-DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-10
+URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-09
+DTSTART;TZID=Europe/Prague;VALUE=DATE:20140809
+DTEND;TZID=Europe/Prague;VALUE=DATE:20140810
+SUMMARY:Vezmi a čti Neh 8–10 
+DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-09
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-UID:vezmi-a-cti-20140810
+UID:vezmi-a-cti-20140809
 END:VEVENT
 BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-11
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140811
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140812
-SUMMARY:Vezmi a čti Sd 13–15
+SUMMARY:Vezmi a čti Neh 11–13
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-11
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2446,7 +2446,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-12
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140812
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140813
-SUMMARY:Vezmi a čti Sd 16–18 
+SUMMARY:Vezmi a čti Zach 1–2 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-12
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2456,7 +2456,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-13
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140813
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140814
-SUMMARY:Vezmi a čti Sd 19–21
+SUMMARY:Vezmi a čti Zach 3–4
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-13
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2466,7 +2466,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-14
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140814
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140815
-SUMMARY:Vezmi a čti Řím 1–3 
+SUMMARY:Vezmi a čti Zach 5–6 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-14
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2476,27 +2476,27 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-15
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140815
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140816
-SUMMARY:Vezmi a čti Řím 4–5
+SUMMARY:Vezmi a čti Zach 7–8
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-15
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 UID:vezmi-a-cti-20140815
 END:VEVENT
 BEGIN:VEVENT
-URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-17
-DTSTART;TZID=Europe/Prague;VALUE=DATE:20140817
-DTEND;TZID=Europe/Prague;VALUE=DATE:20140818
-SUMMARY:Vezmi a čti Řím 6–8 
-DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-17
+URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-16
+DTSTART;TZID=Europe/Prague;VALUE=DATE:20140816
+DTEND;TZID=Europe/Prague;VALUE=DATE:20140817
+SUMMARY:Vezmi a čti Zach 9–11 
+DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-16
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-UID:vezmi-a-cti-20140817
+UID:vezmi-a-cti-20140816
 END:VEVENT
 BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-18
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140818
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140819
-SUMMARY:Vezmi a čti Řím 9–11 
+SUMMARY:Vezmi a čti Zach 12–14 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-18
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2506,7 +2506,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-19
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140819
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140820
-SUMMARY:Vezmi a čti Řím 12–13 
+SUMMARY:Vezmi a čti Est 1+př 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-19
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2516,7 +2516,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-20
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140820
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140821
-SUMMARY:Vezmi a čti Řím 14–16
+SUMMARY:Vezmi a čti Est 2–3+př
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-20
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2526,7 +2526,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-21
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140821
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140822
-SUMMARY:Vezmi a čti Rút 1–4 
+SUMMARY:Vezmi a čti Est 4+př 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-21
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2536,27 +2536,27 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-22
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140822
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140823
-SUMMARY:Vezmi a čti Ef 1–3 
+SUMMARY:Vezmi a čti Est 5+př 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-22
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 UID:vezmi-a-cti-20140822
 END:VEVENT
 BEGIN:VEVENT
-URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-24
-DTSTART;TZID=Europe/Prague;VALUE=DATE:20140824
-DTEND;TZID=Europe/Prague;VALUE=DATE:20140825
-SUMMARY:Vezmi a čti Ef 4–6
-DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-24
+URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-23
+DTSTART;TZID=Europe/Prague;VALUE=DATE:20140823
+DTEND;TZID=Europe/Prague;VALUE=DATE:20140824
+SUMMARY:Vezmi a čti Est 6–8+př
+DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-23
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-UID:vezmi-a-cti-20140824
+UID:vezmi-a-cti-20140823
 END:VEVENT
 BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-25
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140825
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140826
-SUMMARY:Vezmi a čti 1S 1–3
+SUMMARY:Vezmi a čti Est 9–10+př
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-25
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2566,7 +2566,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-26
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140826
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140827
-SUMMARY:Vezmi a čti 1S 4–6 
+SUMMARY:Vezmi a čti Mal 1–3 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-26
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2576,7 +2576,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-27
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140827
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140828
-SUMMARY:Vezmi a čti 1S 7–9 
+SUMMARY:Vezmi a čti 1Mak 1–2 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-27
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
@@ -2586,7 +2586,7 @@ BEGIN:VEVENT
 URL:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-28
 DTSTART;TZID=Europe/Prague;VALUE=DATE:20140828
 DTEND;TZID=Europe/Prague;VALUE=DATE:20140829
-SUMMARY:Vezmi a čti 1S 10–12 
+SUMMARY:Vezmi a čti 1Mak 3–4 
 DESCRIPTION:http://www.vezmiacti.cz/index.php?page=cetba-bible-2014-08-28
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
