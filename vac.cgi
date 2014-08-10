@@ -44,7 +44,7 @@ PREV=`date +"%Y%m%d" --date "$DT 1 day ago"`
 PREV_FMT=`date +"%-d. %-m. %Y" --date "$DT 1 day ago"`
 NEXT=`date +"%Y%m%d" --date "$DT next day"`
 NEXT_FMT=`date +"%-d. %-m. %Y" --date "$DT next day"`
-NAV="<a href=\\\"?d=$PREV\\\">$PREV_FMT</a>&nbsp;|&nbsp;<a href=\\\"?d=$NEXT\\\">$NEXT_FMT</a>"
+NAV="<a href=\\\"?d=$PREV\\\">$PREV_FMT</a>&nbsp;|&nbsp;<a href=\\\"\\\">Dnes</a>&nbsp;|&nbsp;<a href=\\\"?d=$NEXT\\\">$NEXT_FMT</a>"
 
 # Zobrazení výsledku
 get $CMD | awk '
